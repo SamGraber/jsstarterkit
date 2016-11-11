@@ -1,2 +1,5 @@
 # NPM packages
 /node_modules/
+
+# Mock data
+/source/api/db.json

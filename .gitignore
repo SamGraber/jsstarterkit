@@ -3,3 +3,6 @@
 
 # Mock data
 /source/api/db.json
+
+# Build folder
+/dist/

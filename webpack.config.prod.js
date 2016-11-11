@@ -43,6 +43,7 @@ export default {
 				minifyURLs: true,
 			},
 			inject: true,
+			production: true,
 		}),
 
 		// Eliminate duplicate packages when generating bundle
